@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md. Rahim</h1>
 <h3 align="center">A passionate Django Developer</h3>
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/0a0e4895746151.5e9ecde697bf8.gif">
-</div>
+<!-- Centered Image -->
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/0a0e4895746151.5e9ecde697bf8.gif" alt="Coding" width="400">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spidyrahim&label=Profile%20views&color=0e75b6&style=flat" alt="spidyrahim" /> </p>
 
