@@ -1,25 +1,55 @@
 <h1 align="center">Hi 👋, I'm Md. Rahim</h1>
-<h3 align="center">A passionate Django Developer</h3>
+<h3 align="center">A Passionate Django Developer</h3>
 <!-- Centered Image -->
 <p align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/0a0e4895746151.5e9ecde697bf8.gif" alt="Coding" width="400">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spidyrahim&label=Profile%20views&color=0e75b6&style=flat" alt="spidyrahim" /> </p>
+<div align="center" style="display: flex; align-items: center;">
+<!--   <img src="https://komarev.com/ghpvc/?username=spidyrahim&label=Profile%20views&color=0e75b6&style=flat" alt="spidyrahim" />
+  <a href="https://twitter.com/spidyrahim" target="blank"><img src="https://img.shields.io/twitter/follow/spidyrahim?logo=twitter&style=for-the-badge" alt="spidyrahim" /></a> -->
+  <table>
+  <tr>
+    <td>
+      <img src="https://komarev.com/ghpvc/?username=spidyrahim&label=Profile%20views&color=0e75b6&style=flat" alt="spidyrahim" />
+    </td>
+    <td>
+      <a href="https://twitter.com/spidyrahim" target="blank"><img src="https://img.shields.io/twitter/follow/spidyrahim?logo=twitter&style=for-the-badge" alt="spidyrahim" /></a>
+    </td>
+  </tr>
+</table>
+</div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spidyrahim" alt="spidyrahim" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/spidyrahim" target="blank"><img src="https://img.shields.io/twitter/follow/spidyrahim?logo=twitter&style=for-the-badge" alt="spidyrahim" /></a> </p>
+  ### 🔭 What I'm Working On
 
-- 🔭 I’m currently working on **Django Mart**
+- [x] Django Mart
+- [x] Banking System
+- [x] Book Store
 
-- 🌱 I’m currently learning **Django, DSA**
+### 🌱 What I'm Learning
 
-- 💬 Ask me about **Django, Python, DSA**
+- Django
+- Data Structures and Algorithms (DSA)
+- Web Development
 
-- 📫 How to reach me **Email: mdrahim5974@gmail.com**
+### 💬 Ask Me About
 
-- ⚡ Fun fact **I think I'm Lazy**
+Feel free to ask me about anything related to:
+
+- Django
+- Python
+- Data Structures and Algorithms (DSA)
+- Web Development
+
+### 📫 How to Reach Me
+
+You can reach me via email at [mdrahim5974@gmail.com](mailto:mdrahim5974@gmail.com).
+
+### ⚡ Fun Fact
+
+Here's an awesome fact: I embrace my inner laziness to find efficient solutions!
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
