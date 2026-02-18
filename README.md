@@ -29,6 +29,7 @@
 
 ### 🌱 What I'm Learning
 
+- Data Analysis with Python
 - Django
 - Data Structures and Algorithms (DSA)
 - Web Development
@@ -37,6 +38,7 @@
 
 Feel free to ask me about anything related to:
 
+- Data Analysis with Python
 - Django
 - Python
 - Data Structures and Algorithms (DSA)
